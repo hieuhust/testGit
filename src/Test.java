@@ -7,4 +7,5 @@ public class Test {
 //resolve
 //a
 //testRebase
+//testRebase2
 
